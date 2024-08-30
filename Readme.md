@@ -1,5 +1,6 @@
 # MNIST Handwritten Digit Classification with TensorFlow
-![MNIST](image.png)
+
+![alt text](MNIST.png)
 ## Introduction
 
 This project implements a neural network model to classify handwritten digits using the MNIST dataset. The MNIST dataset is a widely used benchmark in machine learning and computer vision, consisting of 70,000 grayscale images of handwritten digits (0-9), each 28x28 pixels in size.
